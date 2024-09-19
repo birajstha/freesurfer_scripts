@@ -3,3 +3,4 @@ outputs
 slurm_outputs
 venv
 *.csv
+license.txt
