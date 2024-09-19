@@ -1,0 +1,6 @@
+*.out
+outputs
+plots
+slurm_outputs
+venv
+*.csv
